@@ -1,0 +1,976 @@
+>Cluster 0
+9	814aa, >sp|Q6D8D5|BAMA_PECAS... *
+
+>Cluster 1
+9	2230aa, >sp|P14553|POLG_HAVS2... *
+
+>Cluster 2
+0	572aa, >sp|A1CHU1|MDM34_ASPCL... *
+
+>Cluster 3
+7	497aa, >sp|B0YD09|MMM1_ASPFC... *
+
+>Cluster 4
+5	439aa, >sp|A1D1T8|MDM12_NEOFI... *
+
+>Cluster 5
+0	93aa, >sp|Q4QR62|TI10A_XENLA... *
+
+>Cluster 6
+0	471aa, >sp|B0Y240|MDM10_ASPFC... *
+
+>Cluster 7
+0	441aa, >sp|C0SE33|MDM12_PARBP... *
+
+>Cluster 8
+0	89aa, >sp|Q9WV97|TIM9_RAT... *
+
+>Cluster 9
+2	2293aa, >sp|P12296|POLG_ENMGO... *
+
+>Cluster 10
+0	602aa, >sp|Q15326|ZMY11_HUMAN... *
+
+>Cluster 11
+2	116aa, >sp|Q7CH39|BAME_YERPE... *
+
+>Cluster 12
+1	97aa, >sp|O60220|TIM8A_HUMAN... *
+
+>Cluster 13
+3	96aa, >sp|Q6GPY0|TI13A_XENLA... *
+
+>Cluster 14
+0	627aa, >sp|C5JVU4|MDM34_BLAGS... *
+
+>Cluster 15
+1	566aa, >sp|O43566|RGS14_HUMAN... *
+
+>Cluster 16
+0	536aa, >sp|P04062|GLCM_HUMAN... *
+
+>Cluster 17
+1	493aa, >sp|P09167|AERA_AERHY... *
+
+>Cluster 18
+0	487aa, >sp|P66948|BEPA_ECOLI... *
+
+>Cluster 19
+0	468aa, >sp|C5K0G3|MDM10_BLAGS... *
+
+>Cluster 20
+0	255aa, >sp|P25788|PSA3_HUMAN... *
+
+>Cluster 21
+0	2052aa, >sp|Q05794|POLG_HAVHA... *
+
+>Cluster 22
+0	493aa, >sp|P18409|MDM10_YEAST... *
+
+>Cluster 23
+0	469aa, >sp|Q9Y512|SAM50_HUMAN... *
+
+>Cluster 24
+0	459aa, >sp|B5VIB8|MDM34_YEAS6... *
+
+>Cluster 25
+3	393aa, >sp|Q7CJM5|BAMB_YERPE... *
+
+>Cluster 26
+0	271aa, >sp|B5VRP4|MDM12_YEAS6... *
+
+>Cluster 27
+3	177aa, >sp|P51161-2|FABP6_HUMAN... *
+
+>Cluster 28
+1	88aa, >sp|Q6BU42|TIM9_DEBHA... *
+
+>Cluster 29
+0	87aa, >sp|P57745|TIM9_ZYGBA... *
+
+>Cluster 30
+0	83aa, >sp|Q3SZ93|TIM8B_BOVIN... *
+
+>Cluster 31
+0	2303aa, >sp|P08545|POLG_TMEVG... *
+
+>Cluster 32
+0	2134aa, >sp|Q9YLS4|POLG_AEVCA... *
+
+>Cluster 33
+0	1284aa, >sp|Q5BL07|PEX1_MOUSE... *
+
+>Cluster 34
+0	1257aa, >sp|P29374|ARI4A_HUMAN... *
+
+>Cluster 35
+0	972aa, >sp|Q15029|U5S1_HUMAN... *
+
+>Cluster 36
+0	921aa, >sp|A0FGR8|ESYT2_HUMAN... *
+
+>Cluster 37
+0	797aa, >sp|P46024|BAMA1_HAEIF... *
+
+>Cluster 38
+0	741aa, >sp|Q8BG19|TMTC4_MOUSE... *
+
+>Cluster 39
+0	623aa, >sp|Q59MC8|MDM34_CANAL... *
+
+>Cluster 40
+1	591aa, >sp|C0NZU3|MMM1_AJECG... *
+
+>Cluster 41
+0	523aa, >sp|C1GXJ4|MMM1_PARBA... *
+
+>Cluster 42
+0	473aa, >sp|Q59LL4|MDM10_CANAL... *
+
+>Cluster 43
+0	439aa, >sp|Q59SI5|MMM1_CANAL... *
+
+>Cluster 44
+1	428aa, >sp|Q59S52|MDM12_CANAL... *
+
+>Cluster 45
+0	426aa, >sp|P41800|MMM1_YEAST... *
+
+>Cluster 46
+0	415aa, >sp|Q9P353|MMM1_NEUCR... *
+
+>Cluster 47
+1	300aa, >sp|O18424|TXLR1_EISFE... *
+
+>Cluster 48
+0	267aa, >sp|Q50985|BAMD_NEIGO... *
+
+>Cluster 49
+0	261aa, >sp|Q9R1P0|PSA4_MOUSE... *
+
+>Cluster 50
+0	245aa, >sp|P0AC02|BAMD_ECOLI... *
+
+>Cluster 51
+0	93aa, >sp|P87108|TIM10_YEAST... *
+
+>Cluster 52
+0	93aa, >sp|Q9XGX8|TIM9_MESCR... *
+
+>Cluster 53
+0	90aa, >sp|Q17754|TIM9_CAEEL... *
+
+>Cluster 54
+0	7073aa, >sp|P0C6X7|R1AB_SARS... *
+
+>Cluster 55
+1	2374aa, >sp|C5MSH2|POLG_SALVA... *
+
+>Cluster 56
+0	1046aa, >sp|P03599|POL2_CPMVS... *
+
+>Cluster 57
+1	992aa, >sp|P49588-2|SYAC_HUMAN... *
+
+>Cluster 58
+1	942aa, >sp|A0FGR8-6|ESYT2_HUMAN... *
+
+>Cluster 59
+0	817aa, >sp|P22735|TGM1_HUMAN... *
+
+>Cluster 60
+0	732aa, >sp|P27641|XRCC5_MOUSE... *
+
+>Cluster 61
+0	712aa, >sp|P31700|GSPD1_DICCH... *
+
+>Cluster 62
+1	712aa, >sp|Q9K0V0|TBPB_NEIMB... *
+
+>Cluster 63
+0	678aa, >sp|P31780|GSPD_AERHY... *
+
+>Cluster 64
+0	609aa, >sp|P12956|XRCC6_HUMAN... *
+
+>Cluster 65
+1	574aa, >sp|Q1E4T3|MDM34_COCIM... *
+
+>Cluster 66
+0	565aa, >sp|B6QIB3|MDM34_TALMQ... *
+
+>Cluster 67
+0	563aa, >sp|A7EWF5|MDM34_SCLS1... *
+
+>Cluster 68
+1	559aa, >sp|Q6NXK8-2|ASIC1_MOUSE... *
+
+>Cluster 69
+1	559aa, >sp|P02748|CO9_HUMAN... *
+
+>Cluster 70
+0	523aa, >sp|O16580|GLCM1_CAEEL... *
+
+>Cluster 71
+0	508aa, >sp|P0CO67|MDM10_CRYNB... *
+
+>Cluster 72
+1	500aa, >sp|Q0TYM0|MMM1_PHANO... *
+
+>Cluster 73
+1	497aa, >sp|C4JP24|MMM1_UNCRE... *
+
+>Cluster 74
+1	495aa, >sp|B6HDM7|MMM1_PENRW... *
+
+>Cluster 75
+1	493aa, >sp|B8MTT8|MMM1_TALSN... *
+
+>Cluster 76
+0	491aa, >sp|B8M2V6|MDM12_TALSN... *
+
+>Cluster 77
+0	489aa, >sp|Q08676|AERA_AERSA... *
+
+>Cluster 78
+0	477aa, >sp|B6Q6B6|MDM10_TALMQ... *
+
+>Cluster 79
+0	475aa, >sp|P0CO81|MMM1_CRYNB... *
+
+>Cluster 80
+0	462aa, >sp|P68104|EF1A1_HUMAN... *
+
+>Cluster 81
+1	455aa, >sp|A8NWS6|MDM10_COPC7... *
+
+>Cluster 82
+1	452aa, >sp|C4JV00|MDM10_UNCRE... *
+
+>Cluster 83
+0	446aa, >sp|Q1E2F1|MDM12_COCIM... *
+
+>Cluster 84
+0	431aa, >sp|A7ELE2|MDM12_SCLS1... *
+
+>Cluster 85
+0	423aa, >sp|A6RJQ7|MMM1_BOTFB... *
+
+>Cluster 86
+0	396aa, >sp|Q96P71|NECA3_HUMAN... *
+
+>Cluster 87
+0	394aa, >sp|P0CE48|EFTU2_ECOLI... *
+
+>Cluster 88
+0	393aa, >sp|O60870|KIN17_HUMAN... *
+
+>Cluster 89
+0	388aa, >sp|P0CO68|MDM12_CRYNJ... *
+
+>Cluster 90
+1	348aa, >sp|A0A2S4N3N0|OMPA_SHIFL... *
+
+>Cluster 91
+0	344aa, >sp|P0A903|BAMC_ECOLI... *
+
+>Cluster 92
+0	343aa, >sp|P0CO71|MDM34_CRYNB... *
+
+>Cluster 93
+1	293aa, >sp|Q87AR6|BAMD_XYLFT... *
+
+>Cluster 94
+1	284aa, >sp|Q9R1Z0-2|VDAC3_RAT... *
+
+>Cluster 95
+0	283aa, >sp|P21796|VDAC1_HUMAN... *
+
+>Cluster 96
+0	205aa, >sp|Q9Y5Z4|HEBP2_HUMAN... *
+
+>Cluster 97
+0	119aa, >sp|A5F378|BAME_VIBC3... *
+
+>Cluster 98
+0	103aa, >sp|Q75F72|TIM13_ASHGO... *
+
+>Cluster 99
+0	102aa, >sp|P0CR99|TIM10_CRYNB... *
+
+>Cluster 100
+0	99aa, >sp|P0CS00|TIM13_CRYNJ... *
+
+>Cluster 101
+0	93aa, >sp|Q4WJX5|TIM10_ASPFU... *
+
+>Cluster 102
+0	91aa, >sp|Q6BHJ3|TIM10_DEBHA... *
+
+>Cluster 103
+0	90aa, >sp|Q9Y8A7|TIM9_EMENI... *
+
+>Cluster 104
+1	90aa, >sp|Q6BN23|TIM8_DEBHA... *
+
+>Cluster 105
+0	89aa, >sp|P0CR97|TIM9_CRYNB... *
+
+>Cluster 106
+0	88aa, >sp|P0CR95|TIM8_CRYNB... *
+
+>Cluster 107
+0	87aa, >sp|Q75DU7|TIM8_ASHGO... *
+
+>Cluster 108
+0	86aa, >sp|Q9Y0V6|TIM10_CAEEL... *
+
+>Cluster 109
+0	83aa, >sp|Q616Q2|TIM8_CAEBR... *
+
+>Cluster 110
+0	4646aa, >sp|Q14204|DYHC1_HUMAN... *
+>Cluster 111
+0	4563aa, >sp|P04114|APOB_HUMAN... *
+>Cluster 112
+0	2432aa, >sp|O91464|POLG_AIVA8... *
+>Cluster 113
+0	2295aa, >sp|C0MHL9|POLG_SAFV... *
+>Cluster 114
+0	2181aa, >sp|Q155Z9|POLG_SVV1... *
+>Cluster 115
+0	2124aa, >sp|B8XTP8|POLG_COSAA... *
+>Cluster 116
+0	1503aa, >sp|O81283|TC159_ARATH... *
+>Cluster 117
+0	1403aa, >sp|O88322|NID2_MOUSE... *
+>Cluster 118
+0	1283aa, >sp|Q12451|OSH2_YEAST... *
+>Cluster 119
+0	1245aa, >sp|P10493|NID1_MOUSE... *
+>Cluster 120
+0	1244aa, >sp|Q5BL07-2|PEX1_MOUSE... *
+>Cluster 121
+0	1206aa, >sp|Q9SLF3|TC132_ARATH... *
+>Cluster 122
+0	1188aa, >sp|P35845|OSH1_YEAST... *
+>Cluster 123
+0	1130aa, >sp|Q9FNP1|PEX1_ARATH... *
+>Cluster 124
+0	1097aa, >sp|Q4PFA7|MDM34_USTMA... *
+>Cluster 125
+0	1089aa, >sp|Q9LUS2|TC120_ARATH... *
+>Cluster 126
+0	1039aa, >sp|P39180|AG43_ECOLI... *
+>Cluster 127
+0	996aa, >sp|P38713|OSH3_YEAST... *
+>Cluster 128
+0	916aa, >sp|O25369|BAMA_HELPY... *
+>Cluster 129
+0	915aa, >sp|Q9K0U9|TBPA_NEIMB... *
+>Cluster 130
+0	837aa, >sp|O83346|TP326_TREPA... *
+>Cluster 131
+0	823aa, >sp|A8NYS9|MDM34_COPC7... *
+>Cluster 132
+0	818aa, >sp|Q9STE8|TC753_ARATH... *
+>Cluster 133
+0	817aa, >sp|Q84Q83|TOC75_ORYSJ... *
+>Cluster 134
+0	809aa, >sp|Q43715|TOC75_PEA... *
+>Cluster 135
+0	799aa, >sp|Q8K9S5|BAMA_BUCAP... *
+>Cluster 136
+0	797aa, >sp|Q9K1H0|BAMA_NEIMB... *
+>Cluster 137
+0	793aa, >sp|Q6S5G3|TOC90_ARATH... *
+>Cluster 138
+0	791aa, >sp|Q729H8|BAMA_DESVH... *
+>Cluster 139
+0	784aa, >sp|P31554|LPTD_ECOLI... *
+>Cluster 140
+0	764aa, >sp|P13423|PAG_BACAN... *
+>Cluster 141
+0	759aa, >sp|P29041|GSPD_XANCP... *
+>Cluster 142
+0	747aa, >sp|P06971|FHUA_ECOLI... *
+>Cluster 143
+0	738aa, >sp|C6V5K2|BAMA_NEORI... *
+>Cluster 144
+0	686aa, >sp|E3PJ86|GSPD2_ECOH1... *
+>Cluster 145
+0	675aa, >sp|Q7SEZ6|MDM12_NEUCR... *
+>Cluster 146
+0	674aa, >sp|P45779|GSPD_VIBCH... *
+>Cluster 147
+0	660aa, >sp|P15644|GSPD_KLEPN... *
+>Cluster 148
+0	658aa, >sp|P35818|GSPD_PSEAE... *
+>Cluster 149
+0	650aa, >sp|P45758|GSPD_ECOLI... *
+>Cluster 150
+0	650aa, >sp|P31701|GSPD_PECCC... *
+>Cluster 151
+0	646aa, >sp|Q4PEP6|MDM10_USTMA... *
+>Cluster 152
+0	632aa, >sp|A5DUL5|MDM34_LODEL... *
+>Cluster 153
+0	617aa, >sp|P57331|BAMA_BUCAI... *
+>Cluster 154
+0	615aa, >sp|Q7RZK9|MDM34_NEUCR... *
+>Cluster 155
+0	603aa, >sp|B2VS19|MDM34_PYRTR... *
+>Cluster 156
+0	599aa, >sp|Q06988|TBPB2_NEIMI... *
+>Cluster 157
+0	590aa, >sp|Q755S6|MDM34_ASHGO... *
+>Cluster 158
+0	586aa, >sp|B0UUL1|IBPB_HISS2... *
+>Cluster 159
+0	584aa, >sp|C5E4T8|MDM34_ZYGRC... *
+>Cluster 160
+0	579aa, >sp|Q4P8B7|MMM1_USTMA... *
+>Cluster 161
+0	577aa, >sp|P0ADE4|TAMA_ECOLI... *
+>Cluster 162
+0	567aa, >sp|A7TES0|MDM34_VANPO... *
+>Cluster 163
+0	564aa, >sp|B6HQ08|MD341_PENRW... *
+>Cluster 164
+0	556aa, >sp|Q6BUS9|MDM34_DEBHA... *
+>Cluster 165
+0	550aa, >sp|A4RM00|MDM12_MAGO7... *
+>Cluster 166
+0	550aa, >sp|B2AA87|MDM12_PODAN... *
+>Cluster 167
+0	550aa, >sp|A4QT54|MDM34_MAGO7... *
+>Cluster 168
+0	546aa, >sp|C5FRB0|MDM34_ARTOC... *
+>Cluster 169
+0	543aa, >sp|C4Y6F4|MDM34_CLAL4... *
+>Cluster 170
+0	542aa, >sp|C5DLL1|MDM34_LACTC... *
+>Cluster 171
+0	540aa, >sp|Q6CYC1|MDM34_KLULA... *
+>Cluster 172
+0	538aa, >sp|Q6FQE0|MDM34_CANGA... *
+>Cluster 173
+0	537aa, >sp|Q2H9Y1|MDM34_CHAGB... *
+>Cluster 174
+0	523aa, >sp|A5DUG6|MDM10_LODEL... *
+>Cluster 175
+0	523aa, >sp|A3GFQ7|MDM34_PICST... *
+>Cluster 176
+0	523aa, >sp|A5E771|MDM12_LODEL... *
+>Cluster 177
+0	521aa, >sp|F8GAQ8|BAMB_FRAST... *
+>Cluster 178
+0	518aa, >sp|A5DLK4|MDM34_PICGU... *
+>Cluster 179
+0	508aa, >sp|P07237|PDIA1_HUMAN... *
+>Cluster 180
+0	492aa, >sp|Q2HDE7|MDM12_CHAGB... *
+>Cluster 181
+0	489aa, >sp|Q94A94|DCDA2_ARATH... *
+>Cluster 182
+0	489aa, >sp|C5FMP1|MDM10_ARTOC... *
+>Cluster 183
+0	489aa, >sp|C4QYM9|MDM34_KOMPG... *
+>Cluster 184
+0	487aa, >sp|P17213|BPI_HUMAN... *
+>Cluster 185
+0	486aa, >sp|Q8ZCC3|BEPA_YERPE... *
+>Cluster 186
+0	485aa, >sp|Q51487|OPRM_PSEAE... *
+>Cluster 187
+0	485aa, >sp|B6HL48|MDM10_PENRW... *
+>Cluster 188
+0	484aa, >sp|Q9KQ40|BEPA_VIBCH... *
+>Cluster 189
+0	484aa, >sp|P53969|SAM50_YEAST... *
+>Cluster 190
+0	480aa, >sp|Q7SBE0|MDM10_NEUCR... *
+>Cluster 191
+0	479aa, >sp|O03042|RBL_ARATH... *
+>Cluster 192
+0	479aa, >sp|Q9M903|TGD4_ARATH... *
+>Cluster 193
+0	475aa, >sp|Q10478|SAM50_SCHPO... *
+>Cluster 194
+0	471aa, >sp|Q6BTX9|MDM10_DEBHA... *
+>Cluster 195
+0	471aa, >sp|C5FRT9|MMM1_ARTOC... *
+>Cluster 196
+0	469aa, >sp|A3LT10|MDM10_PICST... *
+>Cluster 197
+0	468aa, >sp|P75733|CHIP_ECOLI... *
+>Cluster 198
+0	465aa, >sp|Q758T7|MDM10_ASHGO... *
+>Cluster 199
+0	463aa, >sp|Q6CA06|MMM12_YARLI... *
+>Cluster 200
+0	461aa, >sp|Q4PEB4|MDM12_USTMA... *
+>Cluster 201
+0	460aa, >sp|Q6C7W0|MDM34_YARLI... *
+>Cluster 202
+0	460aa, >sp|Q6FWV0|MDM10_CANGA... *
+>Cluster 203
+0	459aa, >sp|C4XVQ6|MDM10_CLAL4... *
+>Cluster 204
+0	458aa, >sp|C5DG70|MDM10_LACTC... *
+>Cluster 205
+0	456aa, >sp|Q5NIB1|BAMB_FRATT... *
+>Cluster 206
+0	454aa, >sp|C5DRQ1|MMM1_ZYGRC... *
+>Cluster 207
+0	454aa, >sp|C5M6Z4|MDM10_CANTT... *
+>Cluster 208
+0	454aa, >sp|C4R892|MMM1_KOMPG... *
+>Cluster 209
+0	452aa, >sp|Q9UUC9|MDM34_SCHPO... *
+>Cluster 210
+0	452aa, >sp|Q6CKU5|MDM10_KLULA... *
+>Cluster 211
+0	449aa, >sp|B8P366|MDM10_POSPM... *
+>Cluster 212
+0	448aa, >sp|Q6BH42|MMM1_DEBHA... *
+>Cluster 213
+0	448aa, >sp|C5E1U4|MDM10_ZYGRC... *
+>Cluster 214
+0	448aa, >sp|O13498|MDM10_PODAN... *
+>Cluster 215
+0	448aa, >sp|Q02201|OSH6_YEAST... *
+>Cluster 216
+0	447aa, >sp|C5DCI0|MMM1_LACTC... *
+>Cluster 217
+0	445aa, >sp|C4QWJ4|MDM10_KOMPG... *
+>Cluster 218
+0	444aa, >sp|Q75FA5|MMM1_ASHGO... *
+>Cluster 219
+0	444aa, >sp|A7TFL9|MMM1_VANPO... *
+>Cluster 220
+0	443aa, >sp|A4QTI8|MDM10_MAGO7... *
+>Cluster 221
+0	443aa, >sp|A3LSW7|MMM1_PICST... *
+>Cluster 222
+0	442aa, >sp|C5FUT6|MDM12_ARTOC... *
+>Cluster 223
+0	439aa, >sp|B2W543|MDM12_PYRTR... *
+>Cluster 224
+0	438aa, >sp|B6HAR6|MDM12_PENRW... *
+>Cluster 225
+0	437aa, >sp|P38755|OSH7_YEAST... *
+>Cluster 226
+0	437aa, >sp|P00924|ENO1_YEAST... *
+>Cluster 227
+0	436aa, >sp|Q5BF59|MDM12_EMENI... *
+>Cluster 228
+0	434aa, >sp|P35844|KES1_YEAST... *
+>Cluster 229
+0	434aa, >sp|Q6CJU9|MMM1_KLULA... *
+>Cluster 230
+0	434aa, >sp|A2R3N6|MDM10_ASPNC... *
+>Cluster 231
+0	434aa, >sp|P35843|HES1_YEAST... *
+>Cluster 232
+0	431aa, >sp|Q6FVT7|MMM1_CANGA... *
+>Cluster 233
+0	430aa, >sp|A5E3T2|MMM1_LODEL... *
+>Cluster 234
+0	430aa, >sp|Q2H740|MDM10_CHAGB... *
+>Cluster 235
+0	427aa, >sp|Q8J0L4|MDM10_EMENI... *
+>Cluster 236
+0	421aa, >sp|A7TNL0|MDM10_VANPO... *
+>Cluster 237
+0	418aa, >sp|A5DCL4|MDM10_PICGU... *
+>Cluster 238
+0	418aa, >sp|F5ZAY7|BAMB_ALTNA... *
+>Cluster 239
+0	415aa, >sp|B5RUL6|MDM12_DEBHA... *
+>Cluster 240
+0	412aa, >sp|A8NEF5|MDM12_COPC7... *
+>Cluster 241
+0	412aa, >sp|C5M1Z6|MMM1_CANTT... *
+>Cluster 242
+0	409aa, >sp|Q0AE45|BAMB_NITEC... *
+>Cluster 243
+0	409aa, >sp|A3LWH1|MDM12_PICST... *
+>Cluster 244
+0	406aa, >sp|Q8P980|BAMB_XANCP... *
+>Cluster 245
+0	405aa, >sp|A5DGW8|MMM1_PICGU... *
+>Cluster 246
+0	401aa, >sp|Q0U1X7|MDM12_PHANO... *
+>Cluster 247
+0	400aa, >sp|A7F1G7|MDM10_SCLS1... *
+>Cluster 248
+0	396aa, >sp|Q5IZC8|TC754_ARATH... *
+>Cluster 249
+0	395aa, >sp|Q8EC35|BAMB_SHEON... *
+>Cluster 250
+0	392aa, >sp|Q0TWV0|MDM10_PHANO... *
+>Cluster 251
+0	392aa, >sp|C6BGE7|BAMB_RALP1... *
+>Cluster 252
+0	390aa, >sp|E4PKG3|BAMB_MARAH... *
+>Cluster 253
+0	389aa, >sp|Q6CAP9|MMM11_YARLI... *
+>Cluster 254
+0	388aa, >sp|C7R5S3|BAMB_KANKD... *
+>Cluster 255
+0	388aa, >sp|F7XXL0|BAMB_MOREP... *
+>Cluster 256
+0	387aa, >sp|P14126|RL3_YEAST... *
+>Cluster 257
+0	386aa, >sp|Q9KTW8|BAMB_VIBCH... *
+>Cluster 258
+0	386aa, >sp|Q7VWL3|BAMB_BORPE... *
+>Cluster 259
+0	385aa, >sp|Q5E769|BAMB_ALIF1... *
+>Cluster 260
+0	384aa, >sp|G4Q9J6|BAMB_TAYAM... *
+>Cluster 261
+0	384aa, >sp|Q5X521|BAMB_LEGPA... *
+>Cluster 262
+0	384aa, >sp|C7RSI4|BAMC_ACCPU... *
+>Cluster 263
+0	383aa, >sp|Q0A984|BAMB_ALKEH... *
+>Cluster 264
+0	381aa, >sp|Q63UT0|BAMB_BURPS... *
+>Cluster 265
+0	380aa, >sp|A8PRS6|MMM1_MALGO... *
+>Cluster 266
+0	380aa, >sp|Q9HXJ7|BAMB_PSEAE... *
+>Cluster 267
+0	376aa, >sp|B0CXH5|MDM34_LACBS... *
+>Cluster 268
+0	374aa, >sp|A1SVX3|BAMC_PSYIN... *
+>Cluster 269
+0	373aa, >sp|D4B5D4|SOD5_ARTBC... *
+>Cluster 270
+0	373aa, >sp|A8FW15|BAMC_SHESH... *
+>Cluster 271
+0	372aa, >sp|B6K463|MDM10_SCHJY... *
+>Cluster 272
+0	370aa, >sp|O13814|MDM10_SCHPO... *
+>Cluster 273
+0	368aa, >sp|Q15SZ5|BAMC_PSEA6... *
+>Cluster 274
+0	367aa, >sp|P06996|OMPC_ECOLI... *
+>Cluster 275
+0	367aa, >sp|Q3SJU7|BAMC_THIDA... *
+>Cluster 276
+0	367aa, >sp|C4YBT3|MDM12_CLAL4... *
+>Cluster 277
+0	367aa, >sp|A8QD14|MDM34_MALGO... *
+>Cluster 278
+0	365aa, >sp|Q8EFT6|BAMC_SHEON... *
+>Cluster 279
+0	365aa, >sp|E1SLW4|BAMC_FERBD... *
+>Cluster 280
+0	362aa, >sp|Q96P71-2|NECA3_HUMAN... *
+>Cluster 281
+0	362aa, >sp|Q44665|OMP2B_BRUA1... *
+>Cluster 282
+0	362aa, >sp|Q5PP51|OEP39_ARATH... *
+>Cluster 283
+0	362aa, >sp|A5DAR4|MDM12_PICGU... *
+>Cluster 284
+0	360aa, >sp|G7LG31|RDN2_MEDTR... *
+>Cluster 285
+0	359aa, >sp|E8XP36|BAMC_RAHSY... *
+>Cluster 286
+0	359aa, >sp|C7RCP6|BAMC_KANKD... *
+>Cluster 287
+0	357aa, >sp|E9KID2|RDN1_MEDTR... *
+>Cluster 288
+0	353aa, >sp|C5MFK7|MDM12_CANTT... *
+>Cluster 289
+0	353aa, >sp|Q6CAG4|MDM10_YARLI... *
+>Cluster 290
+0	352aa, >sp|Q0WCK7|BAMC_YERPE... *
+>Cluster 291
+0	352aa, >sp|E6RM71|BAMC_PSEU9... *
+>Cluster 292
+0	349aa, >sp|C7BGW7|BAMC_PHOAA... *
+>Cluster 293
+0	348aa, >sp|P09001|RM03_HUMAN... *
+>Cluster 294
+0	348aa, >sp|D3VI76|BAMC_XENNA... *
+>Cluster 295
+0	348aa, >sp|C4Y0Q6|MMM1_CLAL4... *
+>Cluster 296
+0	348aa, >sp|B7VIM1|BAMC_VIBA3... *
+>Cluster 297
+0	341aa, >sp|P33641|BAMD_PSEAE... *
+>Cluster 298
+0	340aa, >sp|Q6CI13|MDM12_YARLI... *
+>Cluster 299
+0	339aa, >sp|Q9KQ48|BAMC_VIBCH... *
+>Cluster 300
+0	337aa, >sp|Q9CLZ8|BAMC_PASMU... *
+>Cluster 301
+0	333aa, >sp|A6VKA3|BAMC_ACTSZ... *
+>Cluster 302
+0	329aa, >sp|P14693|SAM35_YEAST... *
+>Cluster 303
+0	327aa, >sp|P50110|SAM37_YEAST... *
+>Cluster 304
+0	326aa, >sp|P9WIU5|ARFA_MYCTU... *
+>Cluster 305
+0	322aa, >sp|H2FU77|BAMC_OCESG... *
+>Cluster 306
+0	321aa, >sp|B2SAB9|OMP2A_BRUA1... *
+>Cluster 307
+0	317aa, >sp|P09169|OMPT_ECOLI... *
+>Cluster 308
+0	317aa, >sp|P0A870|TALB_ECOLI... *
+>Cluster 309
+0	316aa, >sp|B8P9E4|MDM12_POSPM... *
+>Cluster 310
+0	313aa, >sp|O74368|MMM1_SCHPO... *
+>Cluster 311
+0	313aa, >sp|Q38906|TOC34_ARATH... *
+>Cluster 312
+0	309aa, >sp|Q8L940|PDX13_ARATH... *
+>Cluster 313
+0	309aa, >sp|B8PL20|MMM1_POSPM... *
+>Cluster 314
+0	306aa, >sp|O67310|BAMD_AQUAE... *
+>Cluster 315
+0	305aa, >sp|Q9A6U9|BAMD_CAUVC... *
+>Cluster 316
+0	305aa, >sp|Q6CUC3|MDM12_KLULA... *
+>Cluster 317
+0	299aa, >sp|A8N1W8|MMM1_COPC7... *
+>Cluster 318
+0	298aa, >sp|A8PSC0|MDM12_MALGO... *
+>Cluster 319
+0	297aa, >sp|O23680|TOC33_ARATH... *
+>Cluster 320
+0	295aa, >sp|P81155|VDAC2_RAT... *
+>Cluster 321
+0	295aa, >sp|B6K6N3|MMM1_SCHJY... *
+>Cluster 322
+0	291aa, >sp|P9WHT9|PSB_MYCTU... *
+>Cluster 323
+0	291aa, >sp|B0CQL3|MMM1_LACBS... *
+>Cluster 324
+0	289aa, >sp|Q98KC1|BAMD_RHILO... *
+>Cluster 325
+0	288aa, >sp|P21242|PSA7_YEAST... *
+>Cluster 326
+0	287aa, >sp|O67998|TP453_TREPA... *
+>Cluster 327
+0	287aa, >sp|P30656|PSB5_YEAST... *
+>Cluster 328
+0	276aa, >sp|B6K4Z5|MDM12_SCHJY... *
+>Cluster 329
+0	274aa, >sp|Q9JXV4|FHBP_NEIMB... *
+>Cluster 330
+0	273aa, >sp|A7TFP8|MDM12_VANPO... *
+>Cluster 331
+0	273aa, >sp|Q92377|MDM12_SCHPO... *
+>Cluster 332
+0	273aa, >sp|Q5DL43|DAPD_ACIBA... *
+>Cluster 333
+0	272aa, >sp|P83686|NB5R3_PIG... *
+>Cluster 334
+0	269aa, >sp|C4R415|MDM12_KOMPG... *
+>Cluster 335
+0	268aa, >sp|C5DEN8|MDM12_LACTC... *
+>Cluster 336
+0	268aa, >sp|B0DQ09|MDM12_LACBS... *
+>Cluster 337
+0	266aa, >sp|P30657|PSB7_YEAST... *
+>Cluster 338
+0	264aa, >sp|Q75CC2|MDM12_ASHGO... *
+>Cluster 339
+0	262aa, >sp|P44553|BAMD_HAEIN... *
+>Cluster 340
+0	261aa, >sp|P25043|PSB2_YEAST... *
+>Cluster 341
+0	260aa, >sp|P32379|PSA5_YEAST... *
+>Cluster 342
+0	260aa, >sp|P0C0Y7|RCEH_CERSP... *
+>Cluster 343
+0	260aa, >sp|Q9CKA5|BAMD_PASMU... *
+>Cluster 344
+0	260aa, >sp|Q72B03|BAMD_DESVH... *
+>Cluster 345
+0	260aa, >sp|Q9L7A6|BAMD_HAEDU... *
+>Cluster 346
+0	258aa, >sp|P23638|PSA3_YEAST... *
+>Cluster 347
+0	258aa, >sp|C5DTC4|MDM12_ZYGRC... *
+>Cluster 348
+0	257aa, >sp|Q6FVF2|MDM12_CANGA... *
+>Cluster 349
+0	255aa, >sp|P0A858|TPIS_ECOLI... *
+>Cluster 350
+0	254aa, >sp|P40303|PSA4_YEAST... *
+>Cluster 351
+0	252aa, >sp|P21243|PSA1_YEAST... *
+>Cluster 352
+0	251aa, >sp|Q9ZDY1|BAMD_RICPR... *
+>Cluster 353
+0	250aa, >sp|P23639|PSA2_YEAST... *
+>Cluster 354
+0	248aa, >sp|P9WHU1|PSA_MYCTU... *
+>Cluster 355
+0	246aa, >sp|P57482|BAMD_BUCAI... *
+>Cluster 356
+0	243aa, >sp|Q8K9E8|BAMD_BUCAP... *
+>Cluster 357
+0	241aa, >sp|Q9KU21|BAMD_VIBCH... *
+>Cluster 358
+0	234aa, >sp|P40302|PSA6_YEAST... *
+>Cluster 359
+0	229aa, >sp|Q9H082|RB33B_HUMAN... *
+>Cluster 360
+0	228aa, >sp|O34790|PCRB_BACSU... *
+>Cluster 361
+0	228aa, >sp|B1XT70|BAME_POLNS... *
+>Cluster 362
+0	228aa, >sp|Q5AD07|SOD5_CANAL... *
+>Cluster 363
+0	226aa, >sp|P9WFG9|NB2_MYCTU... *
+>Cluster 364
+0	220aa, >sp|O25930|BAMD_HELPY... *
+>Cluster 365
+0	215aa, >sp|P38624|PSB1_YEAST... *
+>Cluster 366
+0	205aa, >sp|P25451|PSB3_YEAST... *
+>Cluster 367
+0	201aa, >sp|P49721|PSB2_HUMAN... *
+>Cluster 368
+0	198aa, >sp|P22141|PSB4_YEAST... *
+>Cluster 369
+0	193aa, >sp|P0ADC1|LPTE_ECOLI... *
+>Cluster 370
+0	190aa, >sp|P41222|PTGDS_HUMAN... *
+>Cluster 371
+0	189aa, >sp|P22057|PTGDS_RAT... *
+>Cluster 372
+0	176aa, >sp|O68562|BAME_PSEAE... *
+>Cluster 373
+0	175aa, >sp|O68564|BAME_PSEFL... *
+>Cluster 374
+0	166aa, >sp|G0A7H1|BAME_METMM... *
+>Cluster 375
+0	164aa, >sp|Q82WP8|BAME_NITEU... *
+>Cluster 376
+0	163aa, >sp|Q8EGW5|BAME_SHEON... *
+>Cluster 377
+0	161aa, >sp|P0AEU7|SKP_ECOLI... *
+>Cluster 378
+0	159aa, >sp|P9WK61|LPQH_MYCTU... *
+>Cluster 379
+0	158aa, >sp|Q9RFC8|TSPO_CERSP... *
+>Cluster 380
+0	152aa, >sp|E1VAU8|BAME_HALED... *
+>Cluster 381
+0	151aa, >sp|P9WP15|DDN_MYCTU... *
+>Cluster 382
+0	148aa, >sp|A1SV87|BAME_PSYIN... *
+>Cluster 383
+0	140aa, >sp|Q6C6U1|TIM10_YARLI... *
+>Cluster 384
+0	138aa, >sp|Q4FV24|BAME_PSYA2... *
+>Cluster 385
+0	137aa, >sp|P44057|BAME_HAEIN... *
+>Cluster 386
+0	135aa, >sp|Q01469|FABP5_HUMAN... *
+>Cluster 387
+0	132aa, >sp|P02693|FABPI_RAT... *
+>Cluster 388
+0	132aa, >sp|F0KFM4|BAME_ACICP... *
+>Cluster 389
+0	132aa, >sp|P02690|MYP2_BOVIN... *
+>Cluster 390
+0	131aa, >sp|Q8PAL4|BAME_XANCP... *
+>Cluster 391
+0	125aa, >sp|Q9K1F0|BAME_NEIMB... *
+>Cluster 392
+0	118aa, >sp|Q5E3A2|BAME_ALIF1... *
+>Cluster 393
+0	115aa, >sp|P14174|MIF_HUMAN... *
+>Cluster 394
+0	113aa, >sp|Q08176|MIM1_YEAST... *
+>Cluster 395
+0	113aa, >sp|Q4X0V2|TIM13_ASPFU... *
+>Cluster 396
+0	109aa, >sp|Q9LUV2|POP3_ARATH... *
+>Cluster 397
+0	108aa, >sp|Q5AF54|TIM13_CANAL... *
+>Cluster 398
+0	108aa, >sp|O45319|TIM13_CAEEL... *
+>Cluster 399
+0	108aa, >sp|Q5AZH4|TIM13_EMENI... *
+>Cluster 400
+0	107aa, >sp|P05744|RL33A_YEAST... *
+>Cluster 401
+0	105aa, >sp|Q4PGT2|TIM13_USTMA... *
+>Cluster 402
+0	105aa, >sp|P53299|TIM13_YEAST... *
+>Cluster 403
+0	104aa, >sp|Q8K9V7|BAME_BUCAP... *
+>Cluster 404
+0	102aa, >sp|P57283|BAME_BUCAI... *
+>Cluster 405
+0	98aa, >sp|Q9Y193|TIM13_BRUMA... *
+>Cluster 406
+0	98aa, >sp|Q09783|TIM8_SCHPO... *
+>Cluster 407
+0	98aa, >sp|Q6BHJ8|TIM13_DEBHA... *
+>Cluster 408
+0	97aa, >sp|Q4FZG7|TI8AB_MOUSE... *
+>Cluster 409
+0	95aa, >sp|Q9VYD7|TIM9_DROME... *
+>Cluster 410
+0	95aa, >sp|Q6FRE1|TIM13_CANGA... *
+>Cluster 411
+0	95aa, >sp|Q10481|TIM13_SCHPO... *
+>Cluster 412
+0	95aa, >sp|Q4IPZ1|TIM10_GIBZE... *
+>Cluster 413
+0	94aa, >sp|Q66L32|TIM8A_XENLA... *
+>Cluster 414
+0	93aa, >sp|Q4IJW4|TIM8_GIBZE... *
+>Cluster 415
+0	92aa, >sp|Q9VTN3|TIM13_DROME... *
+>Cluster 416
+0	92aa, >sp|Q9Y8C0|TIM8_NEUCR... *
+>Cluster 417
+0	92aa, >sp|Q9W2D6|TIM10_DROME... *
+>Cluster 418
+0	90aa, >sp|Q9C0N3|TIM10_NEUCR... *
+>Cluster 419
+0	89aa, >sp|Q9UTE9|TIM10_SCHPO... *
+>Cluster 420
+0	88aa, >sp|Q8J1Z1|TIM9_NEUCR... *
+>Cluster 421
+0	88aa, >sp|Q9Y1A3|TIM8_DROME... *
+>Cluster 422
+0	87aa, >sp|Q4IB65|TIM9_GIBZE... *
+>Cluster 423
+0	87aa, >sp|Q9XH48|TIM13_ARATH... *
+>Cluster 424
+0	87aa, >sp|P57744|TIM8_YEAST... *
+>Cluster 425
+0	87aa, >sp|Q6FK81|TIM8_CANGA... *
+>Cluster 426
+0	86aa, >sp|Q7SBR3|TIM13_NEUCR... *
+>Cluster 427
+0	84aa, >sp|Q9P7K0|TIM9_SCHPO... *
+>Cluster 428
+0	84aa, >sp|Q9XGY5|TIM13_ORYSJ... *
+>Cluster 429
+0	83aa, >sp|Q9ZW33|TIM10_ARATH... *
+>Cluster 430
+0	82aa, >sp|Q4I6B0|TIM13_GIBZE... *
+>Cluster 431
+0	77aa, >sp|Q9XGY4|TIM8_ARATH... *
+>Cluster 432
+0	76aa, >sp|P59637|VEMP_SARS... *
